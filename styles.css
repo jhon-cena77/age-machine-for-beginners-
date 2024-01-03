@@ -1,0 +1,20 @@
+body {
+    background-color: orange;
+}
+
+button {
+    border-color: coral;
+    color: aqua;
+    background-color: chocolate;
+    font-family: monospace,verdana;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aqua;
+}
+
+p {
+    color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

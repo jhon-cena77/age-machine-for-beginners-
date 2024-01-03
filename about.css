@@ -1,0 +1,41 @@
+h6 {
+    font-size: xx-small;
+}
+
+p {
+    font-family: monospace;
+}
+
+body {
+    background-color: orange;
+}
+
+button {
+    border-color: coral;
+    color: aqua;
+    background-color: chocolate;
+    font-family: monospace,verdana;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aqua;
+}
+
+code {
+    background-color: black;
+    font-family: monospace;
+    color: rgb(0,255,0);
+}
+
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.code {
+    background-color: black;
+}
+
+.codetxt {
+    color: white;
+}
